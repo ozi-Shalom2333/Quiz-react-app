@@ -1,0 +1,14 @@
+<!-- Clean Biology Cell Logo -->
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <!-- Cell membrane -->
+  <circle cx="32" cy="32" r="28" stroke="#10b981" stroke-width="3" fill="none"/>
+
+  <!-- Nucleus -->
+  <circle cx="32" cy="32" r="7" fill="#10b981"/>
+
+  <!-- Orbiting organelles -->
+  <circle cx="48" cy="20" r="3" fill="#34d399"/>
+  <circle cx="18" cy="22" r="3" fill="#34d399"/>
+  <circle cx="22" cy="46" r="3" fill="#34d399"/>
+  <circle cx="46" cy="44" r="3" fill="#34d399"/>
+</svg>
